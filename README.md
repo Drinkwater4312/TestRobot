@@ -1,2 +1,2 @@
 # TestRobot
-# This will have parts of our test robot!
+# This will have our test robot!
